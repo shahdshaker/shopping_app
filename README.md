@@ -28,7 +28,7 @@ Add screenshots of your app here:
 ## Screenshots  
 
 ### Welcome Screen
-![Welcome](screenshots/welcomescreen.png)
+![Welcome](Screenshots/welcomescreen.png)
 
 ### Signin Screen
 ![Signin](Screenshots/signinscreen.png)
