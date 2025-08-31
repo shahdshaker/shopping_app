@@ -16,15 +16,6 @@ The app demonstrates core e-commerce features such as browsing products, viewing
 
 ---
 
-## Screenshots
-Add screenshots of your app here:  
-
-- Welcome Screen  
-- Home Screen  
-- Category Screen  
-- Cart Screen  
-- Checkout  
-
 ## Screenshots  
 
 ### Welcome Screen
